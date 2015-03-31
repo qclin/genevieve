@@ -35,7 +35,7 @@ even command is in listed in UPPERCASE,
 
 please enter in the following format 
 
-<access code> + <command> + <information>  please maintain information without space breaks or else you'll loose data 
+access code + command + information  please maintain information without space breaks or else you'll loose data 
 
 for example if you would like to change the event TOPIC 
 please enter "/gen topic ICE_CREAM_SOCIAL"
